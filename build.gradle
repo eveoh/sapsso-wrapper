@@ -1,0 +1,10 @@
+description = 'SAPSSO wrapper'
+
+jar {
+    manifest {
+        attributes(
+            'Implementation-Title': 'SAPSSO wrapper', 
+        )
+    }
+}
+
